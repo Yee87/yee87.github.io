@@ -13,3 +13,16 @@ h1,h2,h3,h4,h5,h6 {
 	font-family: 'Noto Sans TC', sans-serif;
 	coior:#0000ff;
 	text-transform:none;
+}
+
+.bg-primary{
+        background-color: #0600c2!important;
+        background-image: url("https://www.transparenttextures.com/patterns/argyle.png");
+/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+}
+.text-primary {
+    color:#00943a!important;
+}
+a {
+    color: #009600;
+}
