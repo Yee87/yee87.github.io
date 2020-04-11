@@ -27,10 +27,10 @@ a {
     color: #009600;
 }
 
-class="social-icons":hover {
+.social-icons a:hover {
 	color:#008808;
 }
-class="list-inline-item":hover {
+.list-inline-item i:hover {
 	color:#008808;
 }
 
