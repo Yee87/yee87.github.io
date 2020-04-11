@@ -30,7 +30,9 @@ a {
 class="social-icons":hover {
 	color:#008808;
 }
-
+class="list-inline-item":hover {
+	color:#008808;
+}
 
 
 
