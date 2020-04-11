@@ -27,7 +27,7 @@ a {
     color: #009600;
 }
 
-a:hover {
+class="social-icons":hover {
 	color:#008808;
 }
 
