@@ -28,9 +28,9 @@ a {
 }
 
 .social-icons a:hover {
-	background color:#008808;
+	background-color:#008808;
 }
- .dev-icons .list-inline i:hover {
+ .dev-icons .list-inline-item i:hover {
 	color:#008808;
 }
 
