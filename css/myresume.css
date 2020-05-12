@@ -39,7 +39,16 @@ td {border-bottom:1px solid #;}
 td {
 	color:#0000ff;
 }
-	
+div#flex_container{
+     display:flex;
+      flex-wrap:wrap;
+      justify-content:space-around
+      padding:0.5rem;
+}
+child_div{
+  display:block;
+  margin:0.5rem;
+}	
 
 
 
