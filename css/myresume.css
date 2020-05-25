@@ -17,8 +17,8 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 .bg-primary{
-        background-color: #0600c2!important;
-        background-image: url("https://www.transparenttextures.com/patterns/argyle.png");
+        background-color: #32910d!important;
+background-image: url("https://www.transparenttextures.com/patterns/psychedelic.png");
 /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
 }
 .text-primary {
@@ -49,7 +49,8 @@ div#flex_container{
 }
 child_div{
   font-size:1.5rem;
-  margin:1.5rem;	
+  margin:1.5rem;
+  color:  
 }	
 child_div p{
 display:block;
