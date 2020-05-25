@@ -18,9 +18,8 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 .bg-primary{
-        background-color: #32910d!important;
-background-image: url("https://www.transparenttextures.com/patterns/psychedelic.png");
-/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+   background-color: #1e16f7!important;
+background-image: url("https://www.transparenttextures.com/patterns/my-little-plaid-dark.png");
 }
 .text-primary {
     color:#2d15e6!important;
