@@ -38,8 +38,8 @@ table {width: 80%;}
 th, td: {text-align: justify;}
 td {border-bottom:1px solid #;}
 td {
-background-color: #1ca80f;
-background-image: url("https://www.transparenttextures.com/patterns/argyle.png");
+background-color: #0d8f11;
+background-image: url("https://www.transparenttextures.com/patterns/black-thread-light.png");
 }
 div#flex_container{
      display:flex;
