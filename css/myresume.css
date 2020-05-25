@@ -50,7 +50,9 @@ div#flex_container{
 child_div{
   font-size:1.5rem;
   margin:1.5rem;
-  color:  
+  background-color: #317d0b;
+background-image: url("https://www.transparenttextures.com/patterns/natural-paper.png");
+/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */  
 }	
 child_div p{
 display:block;
